@@ -27,11 +27,8 @@ Ensure that you have the following installed:
 ## Install below dependencies before running the project
 ```
 npm install playwright
-npm install playwright-iframe
-npm install playwright-xpath
 npm install adm-zip
-npm install playwright-downloadfile
-npm install playwright-mailosaur
+npm install mailosaur
 ```
 
 ## Running the Tests
