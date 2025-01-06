@@ -25,7 +25,7 @@ Ensure that you have the following installed:
 - npm (Node Package Manager)
 
 ## Install below dependencies before running the project
-
+```
 npm install playwright
 npm install playwright-iframe
 npm install playwright-xpath
