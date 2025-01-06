@@ -26,9 +26,13 @@ Ensure that you have the following installed:
 
 ## Install below dependencies before running the project
 ```
+npm install 
+npm install @playwright/test
 npm install playwright
+npm install playwright@latest
 npm install adm-zip
 npm install mailosaur
+npm install dotenv
 ```
 
 ## Running the Tests
